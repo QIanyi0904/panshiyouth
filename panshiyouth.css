@@ -3,33 +3,34 @@ header{
 	margin-top:120px
 }
 #head{
-	width: 500px;
-    height: 300px;
+width: 700px;
+    height: 400px;
     margin: 0px auto;
     text-align: center;
-    margin-left: 400px;}
+    margin-left: 250px;
+    margin-top: -100px;        }
 
 
 #nian{
-    position:absolute;
-    left:10px;
-    top:30px
-    }
+    position: absolute;
+    left: 10px;
+    top: 30px;
+    width: 400px;    }
 
 
 #hui{   
     position: absolute;
-    left: 40px;
-    top: 130px;
-    width: 350px;
-    }
+    left: 120px;
+    top: 100px;
+    width: 200px;        }
 
 
 #zhi{    
     position: absolute;
-    left: 140px;
-    top: 240px;
-    }
+    left: 180px;
+    top: 165px;
+    width: 70px;
+    height: 70px;    }
     
     
 li{
@@ -206,7 +207,9 @@ h2{
 }
 
 
-
+#image{
+	width:200px
+}
 
 
 
