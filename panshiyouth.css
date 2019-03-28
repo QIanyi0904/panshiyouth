@@ -62,28 +62,34 @@ li{
     /*border: 3px solid white;*/
     width: 800px;
     margin: auto;
-    padding: 55px;
+    padding: 35px;
     background-color:#808080;
     background: rgba(80, 80, 80, 0.6);
+    border-radius:20px;
 }
 
 
 #p2{
     /*border: 3px solid black;*/
-    width: 300px;
+    width: 400px;
     margin: auto;
-    padding: 35px;
+    padding: 25px;
     background-color:#808080;
     background: rgba(80, 80, 80, 0.6);
+    border-radius:20px;
+
 }
 
 #p3{
     /*border: 3px solid black;*/
     width: 350px;
     margin: auto;
-    padding: 35px;
+    padding: 25px;
     background-color:#808080;
     background: rgba(80, 80, 80, 0.6);
+    border-radius:20px;
+
+
 }
 
 
@@ -99,19 +105,26 @@ li{
     width: 50%;
 }
 
+#fixed h1{
+	color:white;
+    background-color:black;
+    color:white;
+    text-decoration:none;
+    text-align:center
+
+}
 
 h1{
 	color:white;
-    letter-spacing:0.2em;
-    font-variant:small-caps;
-    text-align:center;
+    border-radius:50px;
+    border-top-right-radius: 500px; 
     background-color:black;
+    color:white;
     text-decoration:none;
-    font-family:黑体
+    text-align:center
+
 }
-    
-    
-    
+   
 h2{
     color:white;
     letter-spacing:0.2em;
@@ -153,6 +166,12 @@ h2{
 	width:200px;
 	margin-left:27px
 }
+
+#p2 li{
+	list-style-type:none;
+}
+
+
 
 
 /*
