@@ -1,4 +1,4 @@
-header{
+﻿header{
 	text-align:center;
 	margin-top:120px
 }
@@ -57,10 +57,34 @@ li{
 	overflow:auto;
 }
 
+#move{
+	width: 50%;
+	float: left;
+}
+
+#move2{
+	float: right;
+    width: 50%;
+}
+
+#move3{
+	width: 50%;
+	float: left;
+}
+
+#move4{
+	float: left;
+    width: 50%;
+}
+
+#move5{
+	float: right;
+    width: 50%;
+}
 
 #p1{
     /*border: 3px solid white;*/
-    width: 800px;
+    width: 550px;
     margin: auto;
     padding: 35px;
     background-color:#808080;
@@ -116,8 +140,9 @@ li{
 
 h1{
 	color:white;
-    border-radius:50px;
+	width:90%;
     border-top-right-radius: 500px; 
+    border-top-left-radius: 500px;
     background-color:black;
     color:white;
     text-decoration:none;
@@ -132,6 +157,10 @@ h2{
     text-align:center
 }
 
+#link a{
+	font-size:x-large;
+	font-weight:bold
+}
 
 
 #link a:link {
